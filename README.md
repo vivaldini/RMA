@@ -41,9 +41,9 @@ source ~/.bashrc' > clone.sh && source clone.sh
 ## Step 2 - Upload class's package
 
 ```bash 
-cd ~/workspace/src git clone https://github.com/vivaldini.git 
+cd ~/workspace/src git clone https://github.com/vivaldini/RMA.git 
 catkin build 
-bash ../devel/setup.bash/RMA
+bash ../devel/setup.bash
 ```
 
 ## Step 3 - Setting Gazebo
@@ -75,14 +75,14 @@ To add the directory to models and worlds:
 - UAV
 ```bash 
 cd
-bash workspace/src/RMA/src/start/start.sh
+bash ~/workspace/src/RMA/src/start/start.sh
 ```
 
 - Multi UAVs run
 
 ```bash
   cd
-  bash ~/workspace/src/robotica_movel/src/start/multiStart.sh
+  bash ~/workspace/src/RMA/src/start/multiStart.sh
 ```
 
 ### Step 6: Use algorithms and information available from MRS
