@@ -41,7 +41,8 @@ source ~/.bashrc' > clone.sh && source clone.sh
 ## Step 2 - Upload class's package
 
 ```bash 
-cd ~/workspace/src git clone https://github.com/vivaldini/RMA.git 
+cd ~/workspace/src 
+git clone https://github.com/vivaldini/RMA.git 
 catkin build 
 bash ../devel/setup.bash
 ```
