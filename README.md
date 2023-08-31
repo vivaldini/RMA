@@ -1,6 +1,6 @@
 # RMA
 
-This package works together with MRS System. It is a easy to simulate UAVs and Multi UAVs considering your real kinematics.
+This package works together with the MRS System. It is easy to simulate UAVs and Multi UAVs considering your real kinematics.
 
 ## Build Status    
 | Component 	       |  20.04              | 
@@ -55,7 +55,7 @@ Start Gazebo by entering the following at the command prompt.
 gazebo
 ```
 
-Click in Edit -> Model Editor
+Click on Edit -> Model Editor
 
 Click in File -> Save as
 
@@ -116,10 +116,10 @@ tmux kill-server
 Communication with the MRS will be done through ROS. If you are not yet aware, it is interesting to carry out the tutorial 1.1.1 to 1.1.18 link: http://wiki.ros.org/ROS/Tutorials
 
 ## Note:
-    1. In the course, we will see ROS, but it is important for improving your expertise to do the tutorials. That will be passed as Frequency Activities.
+    1. We will see ROS in the course, but it is important to improve your expertise to do the tutorials. That will be passed as Frequency Activities.
     2. The scenario was developed by @lidiaxp.
 
     
 ## Support
 
-For support send email vivaldini@ufscar.br
+For support, send email to vivaldini@ufscar.br
