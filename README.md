@@ -3,7 +3,7 @@
 This package works together with the MRS System. It is easy to simulate UAVs and Multi UAVs considering your real kinematics.
 
 ## Build Status    
-| Component 	       |  20.04              | 
+| Component 	       |  Ubuntu 20.04       | 
 | ------------------- | ------------------- |
 | RMA 	             | ![image](https://user-images.githubusercontent.com/74054598/149457205-fd48db89-0658-4511-af36-bcd8662562da.png)|
 
